@@ -1,2 +1,3 @@
 hyd
 amaravati
+  giddalur
